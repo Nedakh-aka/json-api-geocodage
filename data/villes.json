@@ -1,0 +1,34 @@
+{
+  "pays": "Italie",
+  "releve": "2026-11-05",
+  "villes": [
+    {
+      "nom": "Catane",
+      "region": "Sicile",
+      "habitants": 298762,
+      "restaurants": [
+        {"nom": "Gelateria Zio Pietro dal 1964", "type": "glacier", "notes": [4.6, 4.8, 4.7]},
+        {"nom": "A Casa d'Amici", "type": "trattoria", "notes": [4.4, 4.5]},
+        {"nom": "La Bitta", "type": "poisson", "notes": [4.2, 4.0, 4.3, 4.1]}
+      ]
+    },
+    {
+      "nom": "Palerme",
+      "region": "Sicile",
+      "habitants": 630828,
+      "restaurants": [
+        {"nom": "Antica Focacceria", "type": "trattoria", "notes": [4.3, 4.1, 4.4]},
+        {"nom": "Ferro di Cavallo", "type": "trattoria", "notes": [4.5, 4.6]}
+      ]
+    },
+    {
+      "nom": "Syracuse",
+      "region": "Sicile",
+      "habitants": 121605,
+      "restaurants": [
+        {"nom": "Don Camillo", "type": "poisson", "notes": [4.7, 4.8, 4.6, 4.9]},
+        {"nom": "Gelateria Bianca", "type": "glacier", "notes": [4.2]}
+      ]
+    }
+  ]
+}
