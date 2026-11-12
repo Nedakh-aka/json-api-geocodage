@@ -1,0 +1,31 @@
+{
+  "ville": "Catane",
+  "pays": "Italie",
+  "releve": "2026-11-05",
+  "restaurants": [
+    {
+      "nom": "Gelateria Zio Pietro dal 1964",
+      "adresse": "Via Porta di Ferro, 47, 95131 Catania CT",
+      "type": "glacier",
+      "notes": [4.6, 4.8, 4.7]
+    },
+    {
+      "nom": "A Casa d'Amici",
+      "adresse": "Via Fischetti, 14, 95131 Catania CT",
+      "type": "trattoria",
+      "notes": [4.4, 4.5]
+    },
+    {
+      "nom": "La Bitta",
+      "adresse": "Via Acquicella Porto, 95121 Catania CT",
+      "type": "poisson",
+      "notes": [4.2, 4.0, 4.3, 4.1]
+    },
+    {
+      "nom": "Steak House",
+      "adresse": "Via Porta di Ferro, 8, 95100 Catania CT",
+      "type": "grill",
+      "notes": [3.9, 4.1]
+    }
+  ]
+}
